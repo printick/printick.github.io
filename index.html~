@@ -14,6 +14,7 @@ background-color: #DFD8AE;
    }
    a { color: #008BCE; /* Цвет ссылок */ }
    #container {
+   width: 80%;
     margin: 0 auto; /* Выравниваем по центру */
     background: #F5EEDD; /* Цвет колонок */
    }
